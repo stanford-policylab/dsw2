@@ -1,0 +1,5 @@
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("magrittr")
+install.packages("lubridate")
+install.packages("plotly")
