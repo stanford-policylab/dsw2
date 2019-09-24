@@ -1,6 +1,3 @@
-install.packages("ggplot2")
-install.packages("dplyr")
-install.packages("magrittr")
+install.packages("tidyverse")
 install.packages("lubridate")
-install.packages("readr")
 install.packages("plotly")
